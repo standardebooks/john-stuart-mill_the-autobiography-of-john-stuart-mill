@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/john-stuart-mill/the-autobiography-of-john-stuart-mill</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-05-02T22:39:15Z</dc:date>
+		<meta property="dcterms:modified">2022-05-02T22:39:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,13 +37,16 @@
 		<meta property="se:subject">Autobiography</meta>
 		<dc:description id="description">The autobiography of English philosopher John Stuart Mill.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/john-stuart-mill"&gt;John Stuart Mill&lt;/a&gt; was one of the most influential philosophers of the 19th century. His more well-known works include &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/john-stuart-mill/on-liberty"&gt;On Liberty&lt;/a&gt;&lt;/i&gt;, a highly-influential treatise applying the Utilitarian philosophy to systems of government, and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/john-stuart-mill/the-subjection-of-women"&gt;The Subjugation of Women&lt;/a&gt;&lt;/i&gt;, a treatise arguing for gender equality in an age where that was anything but the norm.&lt;/p&gt;
+			&lt;p&gt;Besides these monumental works, he also produced &lt;i&gt;A System of Logic&lt;/i&gt;, an important work on the philosophy of science, and &lt;i&gt;Principles of Political Economy&lt;/i&gt;, one of the most influential economics textbooks of the 19th century, among many other notable books of philosophy. When not composing profound tracts that would shape philosophy in the next century, he wrote volubly in various magazines and newspapers of the day, became the godfather of &lt;a href="https://standardebooks.org/ebooks/bertrand-russell"&gt;Bertrand Russell&lt;/a&gt;—himself the 20th century’s most prominent logician—and even spent time as a Member of Parliament, becoming the first M.P. in history to call for women to be given the right to vote.&lt;/p&gt;
+			&lt;p&gt;But perhaps the most interesting part of Mill’s rich life is his education. His father, Utilitarian philosopher James Mill, raised John in a special mode of education purposefully designed to produce a genius, with the intent of making John the standard-bearer of Utilitarianism in the next generation. To this end he kept young John isolated from his peers (but not his family) to prevent them from making him feel too smart, and gave John a rich classical, moral, and scientific education. By the age of three John was studying Greek, and by eight he was studying Latin and in charge of educating his younger siblings; by twelve, he was studying scholastic logic, and had already consumed nearly all of the major Greek and Latin classics in their original language. That James Mill’s unique method of education produced a genius is without a doubt, and John’s youthful experiences are recounted here in detail.&lt;/p&gt;
+			&lt;p&gt;This short and to-the-point autobiography is a fascinating window into the life of one of the 19th century’s most important thinkers.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10378</dc:source>
 		<dc:source>https://archive.org/details/autobiography01carlgoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">74332</meta>
+		<meta property="se:reading-ease.flesch">33.31</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-stuart-mill_the-autobiography-of-john-stuart-mill</meta>
 		<dc:creator id="author">John Stuart Mill</dc:creator>
 		<meta property="file-as" refines="#author">Mill, John Stuart</meta>
@@ -56,10 +59,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/George_Frederic_Watts</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50043705</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Marc D'Hooghe</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">D'Hooghe, Marc</meta>
+		<dc:contributor id="transcriber-1">Marc D’Hooghe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">D’Hooghe, Marc</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Marc D'Hooghe</dc:contributor>
+		<dc:contributor id="transcriber-2">Marc D’Hooghe</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">David Widger</meta>
 		<meta property="se:url.homepage" refines="#transcriber-2">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
