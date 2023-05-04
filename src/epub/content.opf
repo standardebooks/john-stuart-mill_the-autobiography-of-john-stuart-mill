@@ -45,7 +45,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10378</dc:source>
 		<dc:source>https://archive.org/details/autobiography01carlgoog</dc:source>
-		<meta property="se:word-count">74332</meta>
+		<meta property="se:word-count">74333</meta>
 		<meta property="se:reading-ease.flesch">33.31</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-stuart-mill_the-autobiography-of-john-stuart-mill</meta>
 		<dc:creator id="author">John Stuart Mill</dc:creator>
