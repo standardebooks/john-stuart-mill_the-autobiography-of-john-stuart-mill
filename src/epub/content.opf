@@ -35,6 +35,8 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008109201</meta>
 		<meta property="se:subject">Autobiography</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">The autobiography of English philosopher John Stuart Mill.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/john-stuart-mill"&gt;John Stuart Mill&lt;/a&gt; was one of the most influential philosophers of the 19th century. His more well-known works include &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/john-stuart-mill/on-liberty"&gt;On Liberty&lt;/a&gt;&lt;/i&gt;, a highly-influential treatise applying the Utilitarian philosophy to systems of government, and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/john-stuart-mill/the-subjection-of-women"&gt;The Subjugation of Women&lt;/a&gt;&lt;/i&gt;, a treatise arguing for gender equality in an age where that was anything but the norm.&lt;/p&gt;
