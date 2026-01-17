@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 440">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 540">
 	<title>The titlepage for the Standard Ebooks edition of The Autobiography of John Stuart Mill, by John Stuart Mill</title>
 	<style type="text/css">
 		text{
@@ -17,6 +17,7 @@
 		}
 	</style>
 	<text class="title" x="700" y="130">THE AUTOBIOGRAPHY</text>
-	<text class="title" x="700" y="230">OF JOHN STUART MILL</text>
-	<text class="author" x="700" y="390">JOHN STUART MILL</text>
+	<text class="title" x="700" y="230">OF</text>
+	<text class="title" x="700" y="330">JOHN STUART MILL</text>
+	<text class="author" x="700" y="490">JOHN STUART MILL</text>
 </svg>
